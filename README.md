@@ -56,10 +56,6 @@ pip install -r requirements.txt
 python main.py
 
 
----
-## 成果展示
-<img width="800" height="169" alt="螢幕擷取畫面20260102081002" src="https://github.com/user-attachments/assets/6acc1fec-2cd3-422a-875a-2fc94b59bc3e" />
-![S138158084](https://github.com/user-attachments/assets/21d18833-f9ce-4476-9c63-e81ffbfb98ca)
-
+<img width="800" height="169" alt="螢幕擷取畫面20260102081002" src="https://github.com/user-attachments/assets/c4a7f7dd-808a-42a9-b9b7-ca5707dc5858" />
 
 
