@@ -58,11 +58,8 @@ python main.py
 
 ---
 ## 成果展示
-![傳送警報訊息](./images/螢幕擷取畫面20260102081002.png)
-![收到警報](./images/S138158084.png)
-
-
-
+<img width="800" height="169" alt="螢幕擷取畫面20260102081002" src="https://github.com/user-attachments/assets/6acc1fec-2cd3-422a-875a-2fc94b59bc3e" />
+![S138158084](https://github.com/user-attachments/assets/21d18833-f9ce-4476-9c63-e81ffbfb98ca)
 
 
 
