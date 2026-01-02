@@ -55,7 +55,3 @@ pip install -r requirements.txt
 執行程式：
 python main.py
 
-
-<img width="800" height="169" alt="螢幕擷取畫面20260102081002" src="https://github.com/user-attachments/assets/c4a7f7dd-808a-42a9-b9b7-ca5707dc5858" />
-
-
