@@ -1,4 +1,5 @@
-# 這是一個基於 AI 影像辨識的物聯網監控專案。系統能透過網路攝影機即時偵測目標（如：人），並在偵測到特定物件時，透過 MQTT 協定觸發雲端警報，同步傳送即時影像至使用者 Telegram 手機端。
+# 這是一個基於 AI 影像辨識的物聯網監控專案。
+系統能透過網路攝影機即時偵測目標（如：人），並在偵測到特定物件時，透過 MQTT 協定觸發雲端警報，同步傳送即時影像至使用者 Telegram 手機端。
 
 ## 🚀 核心功能
 - **AI 即時偵測**：使用 Ultralytics YOLOv8 模型進行邊緣運算辨識。
@@ -57,8 +58,12 @@ python main.py
 
 ---
 ## 成果展示
-![S__138158084](https://github.com/user-attachments/assets/ac7ac8f4-bc89-42fe-9092-5878fbbf3697)# AIoT Edge Monitor: YOLOv8 影像偵測與自動化警報系統
-<img width="2879" height="1332" alt="螢幕擷取畫面 2026<img width="800" height="169" alt="螢幕擷取畫面 2026-01-02 081002" src="https://github.com/user-attachments/assets/0c022471-065e-4098-a5c5-4f1a02dcaa21" />
--01-02 024306" src="https://github.com/user-attachments/assets/e7444a38-cadc-4f19-935d-a12044431382" />
-![Uploading 螢幕擷取畫面 2026-01-02 081002.png…]()
-![S__138158084](https://github.com/user-attachments/assets/f73cc0c4-3a7d-42e8-a5b2-fa58f0d39de4)
+<img width="2879" height="1332" alt="螢幕擷取畫面 2026-01-02 024306" src="https://github.com/user-attachments/assets/7b9a56c6-79a7-4abc-ae20-2acdca006b1a" />
+<img width="800" height="169" alt="螢幕擷取畫面 2026-01-02 081002" src="https://github.com/user-attachments/assets/602c1a47-f2d8-4812-bd44-0b233579943e" />
+![S__138158084](https://github.com/user-attachments/assets/6c1012e9-0a3a-40fd-b457-a2669dd778c3)
+
+
+
+
+
+
