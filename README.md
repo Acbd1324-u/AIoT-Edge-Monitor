@@ -58,9 +58,8 @@ python main.py
 
 ---
 ## 成果展示
-<img width="2879" height="1332" alt="螢幕擷取畫面 2026-01-02 024306" src="https://github.com/user-attachments/assets/7b9a56c6-79a7-4abc-ae20-2acdca006b1a" />
-<img width="800" height="169" alt="螢幕擷取畫面 2026-01-02 081002" src="https://github.com/user-attachments/assets/602c1a47-f2d8-4812-bd44-0b233579943e" />
-![S__138158084](https://github.com/user-attachments/assets/6c1012e9-0a3a-40fd-b457-a2669dd778c3)
+![傳送警報訊息](./images/螢幕擷取畫面 2026-01-02 081002.png)
+![收到警報](./images/S__138158084.png)
 
 
 
