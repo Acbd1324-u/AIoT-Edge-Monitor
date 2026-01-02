@@ -1,4 +1,4 @@
-# AIoT Edge Monitor: YOLOv8 影像偵測與自動化警報系統
+![S__138158084](https://github.com/user-attachments/assets/ac7ac8f4-bc89-42fe-9092-5878fbbf3697)# AIoT Edge Monitor: YOLOv8 影像偵測與自動化警報系統
 
 這是一個基於 AI 影像辨識的物聯網監控專案。系統能透過網路攝影機即時偵測目標（如：人），並在偵測到特定物件時，透過 MQTT 協定觸發雲端警報，同步傳送即時影像至使用者 Telegram 手機端。
 
@@ -55,3 +55,11 @@ pip install -r requirements.txt
 
 執行程式：
 python main.py
+
+
+---
+## 成果展示
+<img width="2879" height="1332" alt="螢幕擷取畫面 2026<img width="800" height="169" alt="螢幕擷取畫面 2026-01-02 081002" src="https://github.com/user-attachments/assets/0c022471-065e-4098-a5c5-4f1a02dcaa21" />
+-01-02 024306" src="https://github.com/user-attachments/assets/e7444a38-cadc-4f19-935d-a12044431382" />
+![Uploading 螢幕擷取畫面 2026-01-02 081002.png…]()
+![S__138158084](https://github.com/user-attachments/assets/f73cc0c4-3a7d-42e8-a5b2-fa58f0d39de4)
